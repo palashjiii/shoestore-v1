@@ -1,0 +1,122 @@
+ .green{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+    display: flex;
+}
+
+.green h1{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 390px;
+    padding-left: 140px;
+}
+.second p{
+    text-align: center;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ .room{
+   padding-left: 80px;
+   line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tpart-btn{
+    height: 50px;
+    width: 200px;
+    margin-left: 130px;
+    margin-top: 30px;
+    color: black;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(91, 91, 247);
+}
+.tpart{
+    width: 200px;
+    height: 200px;
+    margin-left: 133px;
+    
+}
+.tpart img{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.tpart-h1{
+    font-size: 20px;
+    margin-left: 130px;
+    padding-top: 10px;
+}
+.tpart-p{
+    margin-left: 100px;
+}
+
+.tpart-button{
+    height: 50px;
+    width: 200px;
+    margin-left: 130px;
+    margin-top: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+
+
+.main-div{
+    width: 80%;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    /* border: 2px solid red; */
+}
+
+.main-div-1{
+    width: 450px;
+    height: 400px;
+    margin-top: 100px;
+    /* border: 2px solid red; */
+
+   
+}
+.main-div-2{
+    width: 450px;
+    height: 400px;
+    margin-top: 100px;
+    /* border: 2px solid red; */
+
+    
+}
+
+@media screen and(max-width:800px) {
+    .main-div{
+        width: 100%;
+        height: auto;
+        position: relative;
+        top: 90px;
+        flex-direction: column;
+        text-align: center;
+
+    }
+     .main-div-1{
+        width: 100%;
+        font-size: 16px;
+
+       
+    }
+    .main-div-1 p{
+        position: relative;
+        top: 90px;
+       
+    }
+    .main-div-2{
+        width: 100%;
+       
+       
+      
+    } 
+} 
+    

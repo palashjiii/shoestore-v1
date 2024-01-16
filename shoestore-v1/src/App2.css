@@ -1,0 +1,217 @@
+.main-div{
+    height: 700px;
+    width: 950px;
+    margin-left: 100px;
+    /* border: 2px solid black; */
+    background-color: rgb(232, 232, 227);
+}
+
+
+.second-div{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.second-div h1{
+    font-family: inria 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para{
+    margin-left: 100px;
+    margin-top: 32px;
+    font-size: 13px;
+    width: 255px;
+
+}
+.third-div{
+    height: 100px;
+    width: 800px;
+    margin-top: 10px;
+    /* margin-left: 220px; */
+    /* border: 2px solid black; */
+    background-color: white;
+    display: flex;
+    
+    
+}
+.mini{
+    width: 200px;
+    height: fit-content;
+    background-color: rgb(181, 181, 180);
+    margin-left: 10px;
+    margin-top: 15px;
+    border-radius: 10px;
+    display: flex;
+    
+    
+
+}
+.para2{
+    padding: 0px 4vh;
+    color: rgb(2, 2, 108);
+    
+    
+}
+
+.para3{
+     margin-left: 80px;
+     margin-top: 35px;
+     font-size: 14px;
+     color: rgb(94, 93, 93);
+    
+}
+.btn1{
+    width: 150px;
+    height: 35px;
+    margin-top: 25px;
+    margin-left: 140px;
+    border-radius: 40px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.min{
+    display: flex;
+    flex-direction: column;
+}
+.hello{
+    height: 600px;
+    width: 820px;
+    margin-top: 10px;
+    margin-left: 90px;
+    /* border: 2px solid black; */
+    background-color: white;
+}
+.photo{
+    margin-left: 25px;
+}
+.fifth-div{
+    display: flex;
+}
+.box-1{
+    margin-top: 20px;
+    
+}
+.box-1 h1{
+    margin-left: 40px;
+    font-size: 18px;
+}
+.box-1 p{
+    margin-left: 40px;
+
+}
+.box-2{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.box-2 h3{
+    color: rgb(252, 165, 5);
+}
+.box-3{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.para5{
+    font-size: 14px;
+    color: rgb(149, 147, 147);
+    margin-left: 5px;
+
+}
+.box-3 h2{
+    margin-top: 10px;
+}
+
+.photo1{
+    margin-left: 25px;
+    margin-top: 25px;
+    height: 180px;
+    width: 160px;
+}
+.sixth-div{
+    display: flex;
+}
+.box-11{
+    margin-top: 60px;
+    
+    
+}
+.box-11 h1{
+    margin-left: 40px;
+    font-size: 19px;
+    
+}
+.box-11 p{
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.box-12{
+    margin-left: 65px;
+    margin-top: 100px;
+}
+.box-12 h3{
+    color: rgb(252, 165, 5);
+}
+.box-13{
+    margin-left: 60px;
+    margin-top: 100px;
+}
+.para7{
+    font-size: 14px;
+    color: rgb(149, 147, 147);
+    margin-left: 5px;
+
+}
+.box-13 h2{
+    margin-top: 10px;
+}
+.txt h4{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.txt{
+    display: flex;
+}
+.graph{
+    margin-left: 90px;
+}
+
+@media screen and(max-width:800px) {
+    .main-div{
+        width: 100%;
+        height: auto;
+        position: relative;
+        top: 90px;
+        flex-direction: column;
+        text-align: center;
+
+    }
+     .second-div-{
+        width: 100%;
+        font-size: 16px;
+
+       
+    }
+    .second-div p{
+        position: relative;
+        top: 90px;
+       
+    }
+    .hello{
+        width: 100%;
+       
+       
+      
+    } 
+} 
+
+
+
+
+
+
+
+
+
+
+
