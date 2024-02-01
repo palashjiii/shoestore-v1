@@ -22,8 +22,10 @@ const App2 = () => {
                         </div>
                         <div className="fourh-div">
                             <p className="para3">Order placed Thu 17th Jan 24</p>
-                        </div>
+                            </div>
+                        
                         <button className="btn1">TRACK ORDER</button><br/>
+                        
                        
                 </div>
                 <hr/>
