@@ -1,6 +1,6 @@
 .main-div{
     height: 700px;
-    width: 950px;
+    width: 1340px;
     margin-left: 100px;
     /* border: 2px solid black; */
     background-color: rgb(232, 232, 227);
@@ -16,10 +16,10 @@
     font-family: inria 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .para{
-    margin-left: 100px;
+    margin-left: 180px;
     margin-top: 32px;
-    font-size: 13px;
-    width: 255px;
+    font-size: 15px;
+    width: 265px;
 
 }
 .third-div{
@@ -53,17 +53,18 @@
 }
 
 .para3{
-     margin-left: 80px;
+     margin-left: 180px;
      margin-top: 35px;
      font-size: 14px;
      color: rgb(94, 93, 93);
     
 }
+
 .btn1{
     width: 150px;
     height: 35px;
     margin-top: 25px;
-    margin-left: 140px;
+    margin-left: 240px;
     border-radius: 40px;
     background-color: red;
     color: white;
@@ -76,7 +77,7 @@
 }
 .hello{
     height: 600px;
-    width: 820px;
+    width: 1230px;
     margin-top: 10px;
     margin-left: 90px;
     /* border: 2px solid black; */
@@ -93,22 +94,22 @@
     
 }
 .box-1 h1{
-    margin-left: 40px;
+    margin-left: 140px;
     font-size: 18px;
 }
 .box-1 p{
-    margin-left: 40px;
+    margin-left: 140px;
 
 }
 .box-2{
-    margin-left: 90px;
+    margin-left: 230px;
     margin-top: 30px;
 }
 .box-2 h3{
     color: rgb(252, 165, 5);
 }
 .box-3{
-    margin-left: 60px;
+    margin-left: 190px;
     margin-top: 30px;
 }
 .para5{
@@ -136,24 +137,24 @@
     
 }
 .box-11 h1{
-    margin-left: 40px;
+    margin-left: 140px;
     font-size: 19px;
     
 }
 .box-11 p{
     margin-top: 30px;
-    margin-left: 40px;
+    margin-left: 140px;
 
 }
 .box-12{
-    margin-left: 65px;
+    margin-left: 200px;
     margin-top: 100px;
 }
 .box-12 h3{
     color: rgb(252, 165, 5);
 }
 .box-13{
-    margin-left: 60px;
+    margin-left: 190px;
     margin-top: 100px;
 }
 .para7{
@@ -173,7 +174,7 @@
     display: flex;
 }
 .graph{
-    margin-left: 90px;
+    margin-left: 290px;
 }
 
 @media screen and(max-width:800px) {
